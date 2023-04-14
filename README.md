@@ -2,7 +2,7 @@
 
 ------
 
-simple yet powerful file terminal based manager 
+simple yet powerful file terminal based file manager 
 
 ***what is it capable of ?***
 
