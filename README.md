@@ -15,7 +15,7 @@ simple yet powerful file terminal based manager
 
 > ##### this script will ask you some simple question and do the work !
 
-![2023-04-14_03-57](/home/emad/Desktop/codes/super-file/images/2023-04-14_03-57.png)
+![2023-04-14_03-57](https://github.com/simit22/super-file/blob/main/images/2023-04-14_03-57.png)
 
 ------
 
@@ -31,7 +31,7 @@ but you can build and run it in a blink of eyes
 #install python in your system
 #pip install pyinstaller --upgrade
 
-git clone 
+git clone https://github.com/simit22/super-file.git
 
 cd super-file
 
