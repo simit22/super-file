@@ -17,6 +17,7 @@ while True :
         ls_index += 1
 
     print("\n ")
+    print("you are in :" + colored( os.getcwd() , "yellow"))
     print("what can i do for you\n")
     print("change dir :1 // make dir : 2 // delete dir or file : 3 // "+
           "\ncreate file : 4 // rename file or dir : 5\n")
